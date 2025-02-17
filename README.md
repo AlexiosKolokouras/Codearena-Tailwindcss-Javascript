@@ -32,7 +32,7 @@ The CSS file defines the website's appearance, using:
 ## 🛠 Installation Guide
 For detailed installation instructions, please visit the official Tailwind CSS documentation:
 
-🔗 <a href="https://tailwindcss.com/docs/installation" target="_blank">Tailwind CSS Installation Guide</a>
+🔗 [Tailwind CSS Installation Guide](https://tailwindcss.com/docs/installation/tailwind-cli)
 
 ## 📂 How to Use the Project
 1. Clone the repository:
