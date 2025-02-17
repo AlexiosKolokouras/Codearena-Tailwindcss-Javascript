@@ -37,7 +37,7 @@ For detailed installation instructions, please visit the official Tailwind CSS d
 ## 📂 How to Use the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/your-username/Codearena-Tailwindcss-Javascript.git
    ```
 2. Open `index.html` in a browser.
 3. Edit `style.css` for appearance customization.
