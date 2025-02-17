@@ -26,8 +26,8 @@ The CSS file defines the website's appearance, using:
 ## 🚀 Technologies Used
 - **HTML5**
 - **CSS3** (Flexbox, custom fonts, media queries)
-**Tailwind CSS** (Utility-first framework for styling)
-**JavaScript** (Interactive functionality)
+- **Tailwind CSS** (Utility-first framework for styling)
+- **JavaScript** (Interactive functionality)
 - **Figma** (Design & Pixel-Perfect Development)
 
 ## 🛠 Installation Guide
