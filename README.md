@@ -1,4 +1,4 @@
-# 📌 Project Description
+68# 📌 Project Description
 The design follows a **pixel-perfect technique** and was created using **Figma**.
 
 ## 🏗 File Structure
@@ -26,8 +26,9 @@ The CSS file defines the website's appearance, using:
 ## 🚀 Technologies Used
 - **HTML5**
 - **CSS3** (Flexbox, custom fonts, media queries)
+**Tailwind CSS** (Utility-first framework for styling)
+**JavaScript** (Interactive functionality)
 - **Figma** (Design & Pixel-Perfect Development)
-- **Tailwind CSS** (Utility-first framework for styling)
 
 ## 🛠 Installation Guide
 For detailed installation instructions, please visit the official Tailwind CSS documentation:
