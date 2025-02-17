@@ -24,16 +24,15 @@ The CSS file defines the website's appearance, using:
 - **Buttons with hover effects** for better interaction.
 
 ## 🚀 Technologies Used
+- **HTML5**
+- **CSS3** (Flexbox, custom fonts, media queries)
+- **Figma** (Design & Pixel-Perfect Development)
 - **Tailwind CSS** (Utility-first framework for styling)
 
 ## 🛠 Installation Guide
 For detailed installation instructions, please visit the official Tailwind CSS documentation:
 
 🔗 [Tailwind CSS Installation Guide](https://tailwindcss.com/docs/installation/tailwind-cli)
-
-- **HTML5**
-- **CSS3** (Flexbox, custom fonts, media queries)
-- **Figma** (Design & Pixel-Perfect Development)
 
 ## 📂 How to Use the Project
 1. Clone the repository:
