@@ -43,4 +43,6 @@ For detailed installation instructions, please visit the official Tailwind CSS d
 2. Open `index.html` in a browser.
 3. Edit `style.css` for appearance customization.
 
+💡 **Happy Coding!** 🚀
+
 ⚡ If you liked this project, don't forget to give a ⭐ on the repository!
